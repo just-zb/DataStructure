@@ -63,16 +63,16 @@ RM = D:\Jetbrains\Toolbox\apps\CLion\ch-0\202.8194.17\bin\cmake\win\bin\cmake.ex
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Administrator\Documents\GitHub\DataStructure\Test\Week_Ten\RB
+CMAKE_SOURCE_DIR = C:\Users\Administrator\Documents\GitHub\DataStructure\datastructure-DJH\BinTree
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Administrator\Documents\GitHub\DataStructure\Test\Week_Ten\RB\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Administrator\Documents\GitHub\DataStructure\datastructure-DJH\BinTree\cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/RB.dir/all
+all: CMakeFiles/BinTree.dir/all
 
 .PHONY : all
 
@@ -82,36 +82,36 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/RB.dir/clean
+clean: CMakeFiles/BinTree.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/RB.dir
+# Target rules for target CMakeFiles/BinTree.dir
 
 # All Build rule for target.
-CMakeFiles/RB.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RB.dir\build.make CMakeFiles/RB.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RB.dir\build.make CMakeFiles/RB.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Administrator\Documents\GitHub\DataStructure\Test\Week_Ten\RB\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target RB"
-.PHONY : CMakeFiles/RB.dir/all
+CMakeFiles/BinTree.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BinTree.dir\build.make CMakeFiles/BinTree.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BinTree.dir\build.make CMakeFiles/BinTree.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Administrator\Documents\GitHub\DataStructure\datastructure-DJH\BinTree\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target BinTree"
+.PHONY : CMakeFiles/BinTree.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/RB.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Documents\GitHub\DataStructure\Test\Week_Ten\RB\cmake-build-debug\CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/RB.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Documents\GitHub\DataStructure\Test\Week_Ten\RB\cmake-build-debug\CMakeFiles 0
-.PHONY : CMakeFiles/RB.dir/rule
+CMakeFiles/BinTree.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Documents\GitHub\DataStructure\datastructure-DJH\BinTree\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/BinTree.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Documents\GitHub\DataStructure\datastructure-DJH\BinTree\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/BinTree.dir/rule
 
 # Convenience name for target.
-RB: CMakeFiles/RB.dir/rule
+BinTree: CMakeFiles/BinTree.dir/rule
 
-.PHONY : RB
+.PHONY : BinTree
 
 # clean rule for target.
-CMakeFiles/RB.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RB.dir\build.make CMakeFiles/RB.dir/clean
-.PHONY : CMakeFiles/RB.dir/clean
+CMakeFiles/BinTree.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BinTree.dir\build.make CMakeFiles/BinTree.dir/clean
+.PHONY : CMakeFiles/BinTree.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

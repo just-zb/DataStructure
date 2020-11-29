@@ -67,24 +67,13 @@ RM = D:\Jetbrains\Toolbox\apps\CLion\ch-0\202.8194.17\bin\cmake\win\bin\cmake.ex
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Administrator\Documents\GitHub\DataStructure\Test\Week_Ten\RB
+CMAKE_SOURCE_DIR = C:\Users\Administrator\Documents\GitHub\DataStructure\datastructure-DJH\BinTree
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Administrator\Documents\GitHub\DataStructure\Test\Week_Ten\RB\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Administrator\Documents\GitHub\DataStructure\datastructure-DJH\BinTree\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
-
-# Special rule for the target rebuild_cache
-rebuild_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	D:\Jetbrains\Toolbox\apps\CLion\ch-0\202.8194.17\bin\cmake\win\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
-.PHONY : rebuild_cache
-
-# Special rule for the target rebuild_cache
-rebuild_cache/fast: rebuild_cache
-
-.PHONY : rebuild_cache/fast
 
 # Special rule for the target edit_cache
 edit_cache:
@@ -97,11 +86,22 @@ edit_cache/fast: edit_cache
 
 .PHONY : edit_cache/fast
 
+# Special rule for the target rebuild_cache
+rebuild_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	D:\Jetbrains\Toolbox\apps\CLion\ch-0\202.8194.17\bin\cmake\win\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+.PHONY : rebuild_cache
+
+# Special rule for the target rebuild_cache
+rebuild_cache/fast: rebuild_cache
+
+.PHONY : rebuild_cache/fast
+
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Documents\GitHub\DataStructure\Test\Week_Ten\RB\cmake-build-debug\CMakeFiles C:\Users\Administrator\Documents\GitHub\DataStructure\Test\Week_Ten\RB\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Documents\GitHub\DataStructure\datastructure-DJH\BinTree\cmake-build-debug\CMakeFiles C:\Users\Administrator\Documents\GitHub\DataStructure\datastructure-DJH\BinTree\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Documents\GitHub\DataStructure\Test\Week_Ten\RB\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Documents\GitHub\DataStructure\datastructure-DJH\BinTree\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -130,17 +130,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named RB
+# Target rules for targets named BinTree
 
 # Build rule for target.
-RB: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 RB
-.PHONY : RB
+BinTree: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 BinTree
+.PHONY : BinTree
 
 # fast build rule for target.
-RB/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RB.dir\build.make CMakeFiles/RB.dir/build
-.PHONY : RB/fast
+BinTree/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BinTree.dir\build.make CMakeFiles/BinTree.dir/build
+.PHONY : BinTree/fast
 
 main.obj: main.cpp.obj
 
@@ -148,7 +148,7 @@ main.obj: main.cpp.obj
 
 # target to build an object file
 main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RB.dir\build.make CMakeFiles/RB.dir/main.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BinTree.dir\build.make CMakeFiles/BinTree.dir/main.cpp.obj
 .PHONY : main.cpp.obj
 
 main.i: main.cpp.i
@@ -157,7 +157,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RB.dir\build.make CMakeFiles/RB.dir/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BinTree.dir\build.make CMakeFiles/BinTree.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -166,7 +166,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RB.dir\build.make CMakeFiles/RB.dir/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BinTree.dir\build.make CMakeFiles/BinTree.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -177,7 +177,7 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... RB
+	@echo ... BinTree
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
