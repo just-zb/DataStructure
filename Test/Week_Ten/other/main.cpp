@@ -64,6 +64,7 @@ void travellevel(node*root,int n) {//层序遍历
 }
 int main() {
     int n, val;
+    cin>>n;
     node *root = NULL;
     for(int i = 0; i < n; i++) {
         cin>>val;

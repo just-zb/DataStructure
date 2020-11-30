@@ -1,0 +1,3 @@
+C:/Users/Administrator/Documents/GitHub/DataStructure/Test/Week_Twelve/kruskal2/cmake-build-debug/CMakeFiles/kruskal2.dir
+C:/Users/Administrator/Documents/GitHub/DataStructure/Test/Week_Twelve/kruskal2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Documents/GitHub/DataStructure/Test/Week_Twelve/kruskal2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
