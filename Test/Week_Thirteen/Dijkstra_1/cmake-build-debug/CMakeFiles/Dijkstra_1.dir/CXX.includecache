@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Administrator/Documents/GitHub/DataStructure/Test/Week_Thirteen/Dijkstra_1/main.cpp
+iostream
+-
+vector
+C:/Users/Administrator/Documents/GitHub/DataStructure/Test/Week_Thirteen/Dijkstra_1/vector
+stack
+C:/Users/Administrator/Documents/GitHub/DataStructure/Test/Week_Thirteen/Dijkstra_1/stack
+
