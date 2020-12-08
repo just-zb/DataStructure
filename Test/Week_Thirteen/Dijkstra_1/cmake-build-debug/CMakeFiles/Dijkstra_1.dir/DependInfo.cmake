@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Administrator/Documents/GitHub/DataStructure/Test/Week_Thirteen/Dijkstra_1/main.cpp" "C:/Users/Administrator/Documents/GitHub/DataStructure/Test/Week_Thirteen/Dijkstra_1/cmake-build-debug/CMakeFiles/Dijkstra_1.dir/main.cpp.obj"
+  "C:/Users/14535/Documents/GitHub/DataStructure/Test/Week_Thirteen/Dijkstra_1/main.cpp" "C:/Users/14535/Documents/GitHub/DataStructure/Test/Week_Thirteen/Dijkstra_1/cmake-build-debug/CMakeFiles/Dijkstra_1.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "MSVC")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
