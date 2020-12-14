@@ -36,9 +36,7 @@ template<class K,class V>
 class RBTree
 {
 public:
-    RBTree()
-            :_root(NULL)
-    {}
+    RBTree():_root(NULL){}
     bool Insert(const K& key, const V& value);
     void InOrder()
     {

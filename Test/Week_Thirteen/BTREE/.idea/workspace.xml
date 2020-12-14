@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="baaf46df-c1e2-4442-9f4c-cc94fc9b2a41" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/.idea/AVL_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/AVL_1.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/vc140.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/Progress/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/Progress/count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/AVL_1/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/BTree/cmake-build-debug/CMakeFiles/BTree.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/MyRBTree.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/MyRBTree.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/MyRBTree.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/MyRBTree.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/MyRBTree.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/MyRBTree.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/MyRBTree.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/MyRBTree.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/MyRBTree.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/MyRBTree.dir/vc140.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/MyRBTree.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/MyRBTree/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_1/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_1/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_1/rbtree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/.idea/RB_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/RedBlackNode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/RB_2.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/RB_2.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/RB_2.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/RB_2.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/RB_2.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/RB_2.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/RB_2.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/RB_2.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_2/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_3/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_3/RedBlackNode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_3/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_4/.idea/RB_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_4/RBTree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_4/RBTree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_4/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_4/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_4/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_4/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_4/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_4/cmake-build-debug/RB_4.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label/RB_4/cmake-build-debug/RB_4.ilk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/.idea/AVL_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/AVL_1.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/AVL_1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/AVL_1.ilk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/AVL_1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/embed.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/intermediate.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/manifest.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/manifest.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/AVL_1.dir/vc140.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/AVL_1/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/.idea/BST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/BST.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/BST.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/BST.ilk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/BST.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/BST.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/BST.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/BST.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/BST.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/BST.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/BST.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/BST.dir/embed.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/BST.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/BST.dir/intermediate.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/BST.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/BST.dir/manifest.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/BST.dir/manifest.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/BST.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/BST.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/BST.dir/vc140.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BST/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/BTree.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/BTree.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/BTree.ilk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/BTree.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/BTree.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/BTree.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/BTree.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/BTree.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/BTree.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/BTree.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/BTree.dir/embed.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/BTree.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/BTree.dir/intermediate.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/BTree.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/BTree.dir/manifest.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/BTree.dir/manifest.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/BTree.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/BTree.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/BTree.dir/vc140.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/BTree/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/RBTree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/RBTree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/RBTree.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/RBTree.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/RBTree.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/RBTree.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/RBTree.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/RBTree.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/RBTree.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/RBTree.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/RBTree/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Label_Ultimate/数据结构实验报告：搜索树性能比较.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/3.17.3/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/duoyuanzuiduanlujing.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/duoyuanzuiduanlujing.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/duoyuanzuiduanlujing.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/duoyuanzuiduanlujing.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/duoyuanzuiduanlujing.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/duoyuanzuiduanlujing.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/duoyuanzuiduanlujing.dir/embed.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/duoyuanzuiduanlujing.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/duoyuanzuiduanlujing.dir/intermediate.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/duoyuanzuiduanlujing.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/duoyuanzuiduanlujing.dir/manifest.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/duoyuanzuiduanlujing.dir/manifest.res" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/duoyuanzuiduanlujing.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/duoyuanzuiduanlujing.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/duoyuanzuiduanlujing.dir/vc140.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/duoyuanzuiduanlujing.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/duoyuanzuiduanlujing.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/duoyuanzuiduanlujing.ilk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/cmake-build-debug/duoyuanzuiduanlujing.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../duoyuanzuiduanlujing/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Label/AVL/AVLTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Label/AVL/AVLTree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Label/AVL/cmake-build-debug/AVL.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Label/AVL/cmake-build-debug/AVL.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Label/AVL/cmake-build-debug/AVL.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Label/AVL/cmake-build-debug/AVL.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Label/AVL/cmake-build-debug/AVL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Label/AVL/cmake-build-debug/AVL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Label/AVL/cmake-build-debug/CMakeFiles/AVL.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Label/AVL/cmake-build-debug/CMakeFiles/AVL.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Label/AVL/cmake-build-debug/CMakeFiles/AVL.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Label/AVL/cmake-build-debug/CMakeFiles/AVL.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Label/AVL/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Label/AVL/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Label/AVL/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Label/AVL/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Label/BST/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Label/BST/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Label/BTree/BTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Label/BTree/BTree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Label/BTree/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Label/BTree/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Label/RBTree/RBTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Label/RBTree/RBTree.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1lbPGi7kGieVVTPrTa82ug5X5qw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Label_Ultimate/BTREE" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="baaf46df-c1e2-4442-9f4c-cc94fc9b2a41" name="默认的" comment="" />
+      <created>1607862724550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607862724550</updated>
+      <workItem from="1607862729135" duration="2063000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

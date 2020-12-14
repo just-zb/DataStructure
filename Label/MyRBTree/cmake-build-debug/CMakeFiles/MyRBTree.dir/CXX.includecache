@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/14535/Documents/GitHub/DataStructure/Label/MyRBTree/main.cpp
+iostream
+-
+vector
+C:/Users/14535/Documents/GitHub/DataStructure/Label/MyRBTree/vector
+

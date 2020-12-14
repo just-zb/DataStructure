@@ -7,19 +7,16 @@
 #pragma once
 
 //	AVL树的节点类
-template<class K,class V>
 struct AVLTreeNode
 {
-    K _key;
-    V _value;
+    int _key;
     int  _bf;			//平衡因子 -1,0,1		(每个节点的平衡因子等于右子树的高度减去左子树的高度)
-    AVLTreeNode<K, V>* _parent;	//指向父节点的指针
-    AVLTreeNode<K, V>* _left;			//指向左孩子的指针
-    AVLTreeNode<K, V>* _right;		//指向右孩子的指针
+    AVLTreeNode* _parent;	//指向父节点的指针
+    AVLTreeNode* _left;			//指向左孩子的指针
+    AVLTreeNode* _right;		//指向右孩子的指针
 
-    AVLTreeNode(const K& key = K(), const V& value = V())
+    AVLTreeNode(const int& key =0)
             :_key(key)
-            , _value(value)
             , _bf(0)
             , _parent(NULL)
             , _left(NULL)
@@ -27,55 +24,41 @@ struct AVLTreeNode
     {}
 };
 
-template<class K,class V>
+
 class AVLTree
 {
 public:
-    AVLTree()
-            :_root(NULL)
-    {}
-    bool Insert(const K& key, const V& value);  //插入数据
-    //中序打印
-    void  InOrder()
-    {
-        _InOrder(_root);
-        cout << endl;
-    }
-    //判断AVLTree树是否平衡
-    bool IsBalance()
-    {
-        return _IsBalance(_root);
-    }
-    //计算树的高度
-    int Height()
-    {
-        return _Height(_root);
-    }
+    AVLTree():_root(NULL){}
+    bool Insert(const int& key);
+    bool Delete(const int& key);
+    bool Search(const int& key);
+    void  InOrder(){_InOrder(_root);cout << endl;}
+    bool IsBalance(){return _IsBalance(_root);}
+    int Height(){return _Height(_root);}
 protected:
-    void _RotateR(AVLTreeNode<K, V>*&  parent);
-    void _RotateL(AVLTreeNode<K, V>*&  parent);
-    void _RotateLR(AVLTreeNode<K, V>*&  parent);
-    void _RotateRL(AVLTreeNode<K, V>*&  parent);
-    void _InOrder(AVLTreeNode<K, V>* root);
-    bool _IsBalance(AVLTreeNode<K, V>* root);
-    int _Height(AVLTreeNode<K, V>* root);
+    void _RotateR(AVLTreeNode*&  parent);
+    void _RotateL(AVLTreeNode*&  parent);
+    void _RotateLR(AVLTreeNode*&  parent);
+    void _RotateRL(AVLTreeNode*&  parent);
+    void _InOrder(AVLTreeNode* root);
+    bool _IsBalance(AVLTreeNode* root);
+    int _Height(AVLTreeNode* root);
 protected:
-    AVLTreeNode<K, V>* _root; //根节点
+    AVLTreeNode* _root; //根节点
 };
-
-template<class K, class V>
-bool AVLTree<K,V>::Insert(const K& key, const V& value)
+//插入
+bool AVLTree::Insert(const int& key)
 {
     //1.空树
     if (_root == NULL)
     {
-        _root = new AVLTreeNode<K, V>(key, value);
+        _root = new AVLTreeNode(key);
         return true;
     }
 
     //2.AVL树不为NULL
-    AVLTreeNode<K, V>* parent = NULL;
-    AVLTreeNode<K, V>* cur = _root;
+    AVLTreeNode* parent = NULL;
+    AVLTreeNode* cur = _root;
     //找到数据插入位置
     while (cur)
     {
@@ -95,7 +78,7 @@ bool AVLTree<K,V>::Insert(const K& key, const V& value)
         }
     }
     //插入数据
-    cur = new AVLTreeNode<K, V>(key, value);
+    cur = new AVLTreeNode(key);
     cur->_parent = parent;
     if (parent->_key > key)
         parent->_left = cur;
@@ -138,13 +121,22 @@ bool AVLTree<K,V>::Insert(const K& key, const V& value)
         }
     }
 }
-///右旋
-template<class K, class V>
-void AVLTree<K, V>::_RotateR(AVLTreeNode<K, V>*&  parent)
+//删除
+bool AVLTree::Delete(const int &key)
 {
-    AVLTreeNode<K, V>* subL = parent->_left;
-    AVLTreeNode<K, V>* subLR = subL->_right;
-    AVLTreeNode<K, V>* ppNode = parent->_parent;		//标记祖先节点
+
+}
+//搜索
+bool AVLTree::Search(const int &key)
+{
+
+}
+//右旋
+void AVLTree::_RotateR(AVLTreeNode*&  parent)
+{
+    AVLTreeNode* subL = parent->_left;
+    AVLTreeNode* subLR = subL->_right;
+    AVLTreeNode* ppNode = parent->_parent;		//标记祖先节点
     //1.构建parent子树 将parent和subLR链接起来
     parent->_left = subLR;
     if (subLR) subLR->_parent = parent;
@@ -172,12 +164,11 @@ void AVLTree<K, V>::_RotateR(AVLTreeNode<K, V>*&  parent)
     parent = subL;
 }
 //左旋
-template<class K, class V>
-void AVLTree<K, V>::_RotateL(AVLTreeNode<K, V>*&  parent)
+void AVLTree::_RotateL(AVLTreeNode*&  parent)
 {
-    AVLTreeNode<K, V>* subR = parent->_right;
-    AVLTreeNode<K, V>* subRL = subR->_left;
-    AVLTreeNode<K, V>* ppNode = parent->_parent;		//标记祖先节点
+    AVLTreeNode* subR = parent->_right;
+    AVLTreeNode* subRL = subR->_left;
+    AVLTreeNode* ppNode = parent->_parent;		//标记祖先节点
 
     //1.构建parent子树 链接parent和subRL
     parent->_right = subRL;
@@ -205,12 +196,11 @@ void AVLTree<K, V>::_RotateL(AVLTreeNode<K, V>*&  parent)
     parent = subR;
 }
 //左右双旋
-template<class K, class V>
-void AVLTree<K, V>::_RotateLR(AVLTreeNode<K, V>*&  parent)
+void AVLTree::_RotateLR(AVLTreeNode*&  parent)
 {
-    AVLTreeNode<K, V>* pNode = parent;
-    AVLTreeNode<K, V>* subL = parent->_left;
-    AVLTreeNode<K, V>* subLR = subL->_right;
+    AVLTreeNode* pNode = parent;
+    AVLTreeNode* subL = parent->_left;
+    AVLTreeNode* subLR = subL->_right;
     int bf = subLR->_bf;
 
     _RotateL(parent->_left);
@@ -234,12 +224,11 @@ void AVLTree<K, V>::_RotateLR(AVLTreeNode<K, V>*&  parent)
 
 }
 //右左双旋
-template<class K, class V>
-void AVLTree<K, V>::_RotateRL(AVLTreeNode<K, V>*&  parent)
+void AVLTree::_RotateRL(AVLTreeNode*&  parent)
 {
-    AVLTreeNode<K, V>* pNode = parent;
-    AVLTreeNode<K, V>* subR = parent->_right;
-    AVLTreeNode<K, V>* subRL = subR->_left;
+    AVLTreeNode* pNode = parent;
+    AVLTreeNode* subR = parent->_right;
+    AVLTreeNode* subRL = subR->_left;
     int bf = subRL->_bf;
 
     _RotateR(parent->_right);
@@ -262,8 +251,7 @@ void AVLTree<K, V>::_RotateRL(AVLTreeNode<K, V>*&  parent)
     }
 }
 //中序打印
-template<class K, class V>
-void AVLTree<K, V>::_InOrder(AVLTreeNode<K, V>* root)
+void AVLTree::_InOrder(AVLTreeNode* root)
 {
     if (root == NULL)
         return;
@@ -272,8 +260,7 @@ void AVLTree<K, V>::_InOrder(AVLTreeNode<K, V>* root)
     _InOrder(root->_right);
 }
 //求AVL树的高度
-template<class K, class V>
-int AVLTree<K, V>::_Height(AVLTreeNode<K, V>* root)
+int AVLTree::_Height(AVLTreeNode* root)
 {
     if (root == NULL)
         return 0;
@@ -292,8 +279,7 @@ int AVLTree<K, V>::_Height(AVLTreeNode<K, V>* root)
         return high;
 }
 //检验AVL树是否失衡
-template<class K, class V>
-bool AVLTree<K, V>::_IsBalance(AVLTreeNode<K, V>* root)
+bool AVLTree::_IsBalance(AVLTreeNode* root)
 {
     if (root == NULL)
         return true;

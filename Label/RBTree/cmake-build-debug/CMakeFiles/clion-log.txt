@@ -1,0 +1,4 @@
+C:\Users\14535\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.5981.166\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\14535\Documents\GitHub\DataStructure\Label\RBTree
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/14535/Documents/GitHub/DataStructure/Label/RBTree/cmake-build-debug

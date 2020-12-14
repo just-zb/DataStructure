@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/14535/Documents/GitHub/DataStructure/Label_Ultimate/BTREE/main.cpp
+algorithm
+-
+cmath
+-
+iostream
+-
+queue
+-
+windows.h
+C:/Users/14535/Documents/GitHub/DataStructure/Label_Ultimate/BTREE/windows.h
+

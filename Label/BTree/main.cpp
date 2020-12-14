@@ -6,11 +6,10 @@ using namespace std;
 
 void Test()
 {
-    int a[] = { 53, 75, 139, 49, 145, 36, 101 };
-    BTree<int> bt;
-    for (int i = 0; i < sizeof(a) / sizeof(a[0]); i++)
-    {
-        bt.Insert(a[i]);
+    BTree<int,512> bt;
+    int temp;
+    for (int i = 1; i <= 10000; ++i) {
+        bt.Insert(i);
     }
     bt.InOrder();
 }
