@@ -1,3 +1,0 @@
-C:/Users/Administrator/Documents/GitHub/DataStructure/knowledge/RB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Administrator/Documents/GitHub/DataStructure/knowledge/RB/cmake-build-debug/CMakeFiles/RB.dir
-C:/Users/Administrator/Documents/GitHub/DataStructure/knowledge/RB/cmake-build-debug/CMakeFiles/edit_cache.dir

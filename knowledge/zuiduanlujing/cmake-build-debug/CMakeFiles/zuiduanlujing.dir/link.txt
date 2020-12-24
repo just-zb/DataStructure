@@ -1,3 +1,0 @@
-D:\Jetbrains\Toolbox\apps\CLion\ch-0\202.8194.17\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\zuiduanlujing.dir/objects.a
-C:\mingw64\bin\ar.exe cr CMakeFiles\zuiduanlujing.dir/objects.a @CMakeFiles\zuiduanlujing.dir\objects1.rsp
-C:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\zuiduanlujing.dir/objects.a -Wl,--no-whole-archive  -o zuiduanlujing.exe -Wl,--out-implib,libzuiduanlujing.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\zuiduanlujing.dir\linklibs.rsp

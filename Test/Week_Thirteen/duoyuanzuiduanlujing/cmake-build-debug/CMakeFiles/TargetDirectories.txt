@@ -1,3 +1,0 @@
-C:/Users/14535/Documents/GitHub/DataStructure/Test/Week_Thirteen/duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/duoyuanzuiduanlujing.dir
-C:/Users/14535/Documents/GitHub/DataStructure/Test/Week_Thirteen/duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/14535/Documents/GitHub/DataStructure/Test/Week_Thirteen/duoyuanzuiduanlujing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

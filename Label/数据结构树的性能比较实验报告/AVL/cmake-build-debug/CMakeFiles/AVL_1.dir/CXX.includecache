@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/14535/Documents/GitHub/DataStructure/Label_Ultimate/AVL/main.cpp
+iostream
+-
+windows.h
+C:/Users/14535/Documents/GitHub/DataStructure/Label_Ultimate/AVL/windows.h
+time.h
+C:/Users/14535/Documents/GitHub/DataStructure/Label_Ultimate/AVL/time.h
+stdlib.h
+C:/Users/14535/Documents/GitHub/DataStructure/Label_Ultimate/AVL/stdlib.h
+

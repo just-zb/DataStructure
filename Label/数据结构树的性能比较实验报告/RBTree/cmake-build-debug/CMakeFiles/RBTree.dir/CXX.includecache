@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/14535/Documents/GitHub/DataStructure/Label_Ultimate/RBTree/RBTree.h
+
+C:/Users/14535/Documents/GitHub/DataStructure/Label_Ultimate/RBTree/main.cpp
+iostream
+-
+windows.h
+C:/Users/14535/Documents/GitHub/DataStructure/Label_Ultimate/RBTree/windows.h
+RBTree.h
+C:/Users/14535/Documents/GitHub/DataStructure/Label_Ultimate/RBTree/RBTree.h
+time.h
+C:/Users/14535/Documents/GitHub/DataStructure/Label_Ultimate/RBTree/time.h
+stdlib.h
+C:/Users/14535/Documents/GitHub/DataStructure/Label_Ultimate/RBTree/stdlib.h
+
